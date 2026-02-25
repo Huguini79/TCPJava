@@ -47,7 +47,9 @@ public class Main {
 
             Servidor.socket.close();
             Cliente.socket.close();
-
+            break;
+            
         }
     }
+
 }
